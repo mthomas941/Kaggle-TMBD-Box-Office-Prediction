@@ -5,6 +5,7 @@ purposes of this kernel I've only used the competition's original data to do EDA
 
 
 Link to Kaggle competition: https://www.kaggle.com/c/tmdb-box-office-prediction
+
 Per the competition description:
 
 We're going to make you an offer you can't refuse: a Kaggle competition!
